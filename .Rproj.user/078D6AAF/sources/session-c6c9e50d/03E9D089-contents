@@ -2,21 +2,19 @@ project:
   type: website
   output-dir: docs
   render: 
-    - pain-relief.qmd
+    - index.qmd
 
 website:
   navbar:
-    background: red
+    background: "#bc4749"
     title: "PAIN relief"
-    logo: img/pain_relief/massage1.png
+    logo: img/massage1.png
     logo-href: "https://wa.me/601137797582?text=I%20would%20like%20to%20book%20a%20massage"
    
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    css: style.css
     page-layout: full
     self-contained: true
 

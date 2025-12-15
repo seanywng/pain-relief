@@ -1,0 +1,31 @@
+{
+    "id": "44742332",
+    "path": "~/R/pain_relief_site/index.qmd",
+    "project_path": "index.qmd",
+    "type": "quarto_markdown",
+    "hash": "3229983097",
+    "contents": "",
+    "dirty": false,
+    "created": 1765789633918.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "cursorPosition": "43,159",
+        "scrollLine": "24",
+        "rmdVisualModeLocation": "2:0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1765789717,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1765789717372,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,35 @@
+# Source - https://stackoverflow.com/a
+# Posted by Jan
+# Retrieved 2025-12-02, License - CC BY-SA 4.0
+
+color:
+  palette:
+    blue: "#447099"
+    orange: "#EE6331"
+    gray: "#404041"
+    red: "#bc4749"
+  primary: "#edede9"
+  secondary: "#edf2f4"
+
+typography: 
+  base:
+    family: Open Sans
+    line-height: 1.25
+    size: 1rem
+  headings:
+    family: Roboto Slab
+    color: secondary
+    weight: semi-bold
+  monospace:
+    family: Fira Code
+    size: 0.9em
+    
+logo:
+  medium:
+    light: img/pain_relief/massage1.png
+    dark: img/pain_relief/massage1.png
+
+defaults:
+  bootstrap:
+    defaults:
+      navbar-bg: "#bc4749"
